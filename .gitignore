@@ -17,6 +17,7 @@ a.out
 
 # Build folders
 /build/
+.vscode/
 /bin/
 /target/
 /dist/
@@ -26,3 +27,4 @@ a.out
 *.tmp
 
 RSA
+hybrid
