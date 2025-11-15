@@ -1,0 +1,26 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binaries
+a.out
+*.exe
+*.out
+*.elf
+*.bin
+
+# Libraries
+*.so
+*.dll
+*.dylib
+*.lib
+
+# Build folders
+/build/
+/bin/
+/target/
+/dist/
+
+# Automatically generated files
+*.log
+*.tmp
