@@ -24,7 +24,6 @@ void print_hex(const char *label, unsigned char *buf, size_t len) {
     printf("\n\n");
 }
 
-
 EVP_PKEY* gen_rsa() {
     EVP_PKEY_CTX *ctx = EVP_PKEY_CTX_new_id(EVP_PKEY_RSA, NULL);
     EVP_PKEY *pkey = NULL;

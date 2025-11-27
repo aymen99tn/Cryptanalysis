@@ -1,6 +1,11 @@
+AGENTS.md
+
+
 # Compiled object files
 *.o
 *.obj
+*.img
+*.pdf
 
 # Compiled binaries
 a.out
@@ -28,3 +33,5 @@ a.out
 
 RSA
 hybrid
+ECDSA
+RSA_sig
